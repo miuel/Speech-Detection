@@ -1,0 +1,14 @@
+{
+  "name": "gum",
+  "version": "0.1.0",
+  "description": "recognition speech",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files '*.css, *.html, *.js'"
+  },
+  "author": "Miguel Rivas <rivasmig@gmail.com> (https://github.com/miuel)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.12.5"
+  }
+}
